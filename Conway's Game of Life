@@ -1,4 +1,5 @@
 # Conway's Game of Life
+# no life no game
 import random, time, copy
 width = 10
 height = 10
